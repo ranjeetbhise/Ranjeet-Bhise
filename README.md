@@ -12,8 +12,8 @@ I’m a data analyst who enjoys turning raw data into clear insights, dashboards
 Skills
 
 Data Analysis: Excel, SQL, Python, Pandas, NumPy
-Visualization: Power BI, Tableau, Matplotlib, Seaborn
-Databases: MySQL, PostgreSQL, SQL Server
+Visualization: Power BI, Matplotlib, Seaborn
+Databases: MySQL, SQL Server
 Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 Thanks for visiting my profile!
